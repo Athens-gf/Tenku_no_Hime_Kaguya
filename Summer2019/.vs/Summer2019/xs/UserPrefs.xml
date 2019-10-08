@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BC23D8F1-DFA2-AEB3-3723-84157A2440CE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CoroutineSequence.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SingletonMonoBehaviour.cs" Line="6" Column="6" />
+      <File FileName="Assets/Scripts/GameData.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/GameScene/GameManager.cs" Line="35" Column="41" />
+      <File FileName="Assets/Scripts/GameScene/StageManager.cs" Line="104" Column="38" />
+      <File FileName="Assets/Scripts/GameScene/Player.cs" Line="57" Column="22" />
+      <File FileName="Assets/Scripts/GameScene/SlowObject.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/GameScene/BounceObject.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripts/Utility.cs" Line="7" Column="6" />
+      <File FileName="Assets/Scripts/GameScene/Floor.cs" Line="23" Column="61" />
+      <File FileName="Assets/Scripts/CoroutineSequence.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
