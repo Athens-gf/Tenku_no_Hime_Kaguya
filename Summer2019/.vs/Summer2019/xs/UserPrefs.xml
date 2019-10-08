@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{BC23D8F1-DFA2-AEB3-3723-84157A2440CE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CoroutineSequence.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameScene/GameManager.cs">
     <Files>
       <File FileName="Assets/Scripts/SingletonMonoBehaviour.cs" Line="6" Column="6" />
       <File FileName="Assets/Scripts/GameData.cs" Line="3" Column="1" />
-      <File FileName="Assets/Scripts/GameScene/GameManager.cs" Line="35" Column="41" />
+      <File FileName="Assets/Scripts/GameScene/GameManager.cs" Line="90" Column="35" />
       <File FileName="Assets/Scripts/GameScene/StageManager.cs" Line="104" Column="38" />
       <File FileName="Assets/Scripts/GameScene/Player.cs" Line="57" Column="22" />
       <File FileName="Assets/Scripts/GameScene/SlowObject.cs" Line="29" Column="1" />

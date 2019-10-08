@@ -87,7 +87,9 @@ namespace Summer2019
             // オブジェクト配置位置生成
             ObjectPos[true] = new List<Vector2>();
             ObjectPos[false] = new List<Vector2>();
-            for (int i = 0; i < _objectCount - 5; i++)
+            // オブジェクト生成数は「難しい」なら半減
+            int objCount = _objectCount / (GameData.Instance.Difficulty == Difficulty.Hard ? 2 : 1);
+            for (int i = 0; i < objCount - 5; i++)
             {
                 float x = Random.Range(-4f, 4f);
                 float y = -Random.Range(_noneObjectAreaHeight, Height - _noneObjectAreaHeight * 1.5f);
