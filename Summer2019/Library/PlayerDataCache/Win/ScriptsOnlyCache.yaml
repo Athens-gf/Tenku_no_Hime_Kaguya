@@ -55,33 +55,33 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9660}
+      Script: {instanceID: 9664}
     - Class: 114
-      Script: {instanceID: 9770}
+      Script: {instanceID: 9774}
     - Class: 114
-      Script: {instanceID: 9824}
+      Script: {instanceID: 9828}
     - Class: 114
-      Script: {instanceID: 9864}
+      Script: {instanceID: 9868}
     - Class: 114
-      Script: {instanceID: 9984}
+      Script: {instanceID: 9988}
     - Class: 114
-      Script: {instanceID: 10168}
+      Script: {instanceID: 10172}
     - Class: 114
-      Script: {instanceID: 10266}
+      Script: {instanceID: 10270}
     - Class: 114
-      Script: {instanceID: 10538}
+      Script: {instanceID: 10544}
     - Class: 114
-      Script: {instanceID: 11108}
+      Script: {instanceID: 11116}
     - Class: 114
-      Script: {instanceID: 11148}
+      Script: {instanceID: 11156}
     - Class: 114
-      Script: {instanceID: 11296}
+      Script: {instanceID: 11304}
     - Class: 114
-      Script: {instanceID: 11348}
+      Script: {instanceID: 11356}
     - Class: 114
-      Script: {instanceID: 11432}
+      Script: {instanceID: 11440}
     - Class: 114
-      Script: {instanceID: 11488}
+      Script: {instanceID: 11496}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -120,23 +120,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9660}
+      Script: {instanceID: 9664}
     - Class: 114
-      Script: {instanceID: 9824}
+      Script: {instanceID: 9828}
     - Class: 114
-      Script: {instanceID: 9864}
+      Script: {instanceID: 9868}
     - Class: 114
-      Script: {instanceID: 9984}
+      Script: {instanceID: 9988}
     - Class: 114
-      Script: {instanceID: 10266}
+      Script: {instanceID: 10270}
     - Class: 114
-      Script: {instanceID: 11108}
+      Script: {instanceID: 10412}
     - Class: 114
-      Script: {instanceID: 11432}
+      Script: {instanceID: 11116}
     - Class: 114
-      Script: {instanceID: 11488}
+      Script: {instanceID: 11440}
     - Class: 114
-      Script: {instanceID: 21714}
+      Script: {instanceID: 11496}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -173,25 +173,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9660}
+      Script: {instanceID: 9664}
     - Class: 114
-      Script: {instanceID: 9824}
+      Script: {instanceID: 9828}
     - Class: 114
-      Script: {instanceID: 9864}
+      Script: {instanceID: 9868}
     - Class: 114
-      Script: {instanceID: 9984}
+      Script: {instanceID: 9988}
     - Class: 114
-      Script: {instanceID: 10266}
+      Script: {instanceID: 10270}
     - Class: 114
-      Script: {instanceID: 11108}
+      Script: {instanceID: 10744}
     - Class: 114
-      Script: {instanceID: 11260}
+      Script: {instanceID: 11116}
     - Class: 114
-      Script: {instanceID: 11432}
+      Script: {instanceID: 11268}
     - Class: 114
-      Script: {instanceID: 11488}
+      Script: {instanceID: 11440}
     - Class: 114
-      Script: {instanceID: 56876}
+      Script: {instanceID: 11496}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -413,6 +413,12 @@ ScriptsOnlyBuild:
     className: Selectable
   - hash:
       serializedVersion: 2
+      Hash: 087671740c01235e5fa8017a39a6a287
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Summer2019
+    className: ResultSceneManager
+  - hash:
+      serializedVersion: 2
       Hash: b3ab2106268377ffe25dd18ac23dca28
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -471,6 +477,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 9152938d6bb2f16f19dfb683f85db11f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RotateText
   - hash:
       serializedVersion: 2
       Hash: 12e64d607873da15ad3f833620350d51
@@ -669,21 +681,9 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 087671740c01235e5fa8017a39a6a287
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Summer2019
-    className: ResultSceneManager
-  - hash:
-      serializedVersion: 2
-      Hash: 9152938d6bb2f16f19dfb683f85db11f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: RotateText
   platform: 5
   scenePathNames:
   - Assets/Scenes/StartScene.unity
   - Assets/Scenes/GameScene.unity
   - Assets/Scenes/ResultScene.unity
-  playerPath: D:/Project/Summer2019/Tenku-no-Hime-Kaguya/Summer2019.exe
+  playerPath: D:/Project/Tenku_no_Hime_Kaguya/Summer2019/Tenku_no_Hime_Kaguya_Win/Summer2019.exe

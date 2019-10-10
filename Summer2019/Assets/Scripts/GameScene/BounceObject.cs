@@ -43,7 +43,7 @@ namespace Summer2019
             }
             collision.attachedRigidbody.velocity = vel.normalized * mag;
             Player player = collision.GetComponent<Player>();
-            player.GameManager.SoundSlow(player.PlayerNumber);
+            player.GameManager.SoundBounce(player.PlayerNumber);
         }
     }
 }
